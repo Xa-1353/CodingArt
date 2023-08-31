@@ -15,6 +15,6 @@ public class Main {
         System.out.println("\t \t; '   : :`-:     _.`* ;");
         System.out.println("\t \t.*' /  .*' ; .*`- +'  `*' ");
         System.out.println("\t \t`*-*   `*-*  `*-*'");
-        //Art by Blazej Kozlowski https://www.asciiart.eu/animals/catsv2
+        //Art by Blazej Kozlowski https://www.asciiart.eu/animals/catsv2 - citation
     }
 }
